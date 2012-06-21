@@ -1,4 +1,3 @@
 RexGUI
 ======
-
-This is the repo for the RexGUI project: display and analysis of recordings made with NIH's REX
+The repo for the RexGUI project has moved to RexDataGUI. This one will be deleted. 
